@@ -1,0 +1,10 @@
+C:\Evol\ERP Evol Desa\Api\Entidades\bin\Release\netcoreapp3.1\Entidades.deps.json
+C:\Evol\ERP Evol Desa\Api\Entidades\bin\Release\netcoreapp3.1\Entidades.dll
+C:\Evol\ERP Evol Desa\Api\Entidades\bin\Release\netcoreapp3.1\Entidades.pdb
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.dll
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.pdb
+C:\Evol\ERP Evol Desa\Api\Entidades\obj\Release\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSim.Core", "ApiSim.Core\ApiSim.Core.csproj", "{5D634873-D2DC-44C7-9751-BBB843B3EB9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{3BDE33B5-9448-4889-BA49-B950838C8B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D634873-D2DC-44C7-9751-BBB843B3EB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D634873-D2DC-44C7-9751-BBB843B3EB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D634873-D2DC-44C7-9751-BBB843B3EB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D634873-D2DC-44C7-9751-BBB843B3EB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDE33B5-9448-4889-BA49-B950838C8B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDE33B5-9448-4889-BA49-B950838C8B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDE33B5-9448-4889-BA49-B950838C8B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDE33B5-9448-4889-BA49-B950838C8B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92343114-D49B-44F3-8662-84190D7E1791}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ApiSim.Core\\ApiSim.Core.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = ApiSim.Core\\
+		SccProjectUniqueName2 = Entidades\\Entidades.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Entidades\\
+	EndGlobalSection
+EndGlobal
